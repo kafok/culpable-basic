@@ -1,0 +1,286 @@
+html {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    min-width: 100vw;
+    height: 100dvh;
+
+    overflow-x: hidden;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    position: relative;
+
+    background: rgb(231, 231, 231);
+    background: radial-gradient(circle, rgba(231, 231, 231, 1) 0%, rgba(194, 194, 194, 1) 85%, rgba(68, 68, 68, 1) 96%, rgba(33, 33, 33, 1) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    padding: 0.1em;
+    text-align: center;
+    font-size: 2.3em;
+    color: #fff;
+    -webkit-text-stroke: 3px #000;
+    font-weight: bold;
+    font-family: 'Titan One', cursive;
+}
+
+#root {
+    max-width: 100dvw;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+    padding: 0 0.6em;
+}
+
+@media (min-width: 600px) {
+    #root {
+        max-width: 500px;
+        display: flex;
+    }
+}
+
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5em;
+    padding: 1.2em 0;
+}
+
+.buttons>div:first-child {
+    display: flex;
+    justify-content: space-around;
+    gap: 1em;
+    font-size: 1.3em;
+}
+
+.buttons>div:last-child {
+    display: flex;
+    gap: 1.5em;
+    align-items: center;
+}
+
+.buttons>div>div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6em;
+}
+
+.buttons>div>div:first-child {
+    flex-direction: column;
+}
+
+:root {
+    --color-main: rgb(255, 166, 0);
+    --color-main-b: rgb(255, 227, 84);
+    --color-main-active: rgb(238, 155, 0);
+    --color-main-border: rgb(128, 83, 0);
+
+    --color-confirm: rgb(51, 255, 0);
+    --color-confirm-b: rgb(90, 255, 84);
+    --color-confirm-active: rgb(59, 236, 0);
+    --color-confirm-border: rgb(0, 128, 11);
+
+    --color-error: rgb(255, 0, 0);
+    --color-error-b: rgb(255, 84, 84);
+    --color-error-active: rgb(236, 0, 0);
+    --color-error-border: rgb(128, 0, 0);
+
+    --color-female: rgb(255, 91, 241);
+    --color-female-b: rgb(255, 158, 247);
+    --color-female-active: rgb(184, 57, 173);
+    --color-female-border: rgb(119, 45, 113);
+
+    --color-male: rgb(91, 148, 255);
+    --color-male-b: rgb(163, 195, 255);
+    --color-male-active: rgb(58, 93, 158);
+    --color-male-border: rgb(33, 54, 92);
+
+    --color-disable: rgb(97, 97, 97);
+    --color-disable-b: rgb(204, 204, 204);
+    --color-disable-active: rgb(97, 97, 97);
+    --color-disable-border: rgb(61, 61, 61);
+
+    --color-border: rgb(122, 122, 122);
+}
+
+/* Buttons */
+
+.button {
+    padding: 0.2em 0.3em;
+    border-radius: 10px;
+    border: 1px var(--color-border) solid;
+    cursor: pointer;
+    font-weight: bold;
+    font-family: 'Titan One', cursive;
+    font-size: 1.3em;
+    color: #fff;
+    background: black;
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    text-align: center;
+    transition: transform 0.1s;
+}
+
+.button:active {
+    transform: scale(0.95);
+    border: 1px var(--color-border) solid;
+}
+
+.btn-main {
+    background: var(--color-main);
+    background: linear-gradient(0deg, var(--color-main) 0%, var(--color-main-b) 100%);
+    border-bottom-color: var(--color-main-border);
+    -webkit-text-stroke: 1px var(--color-main-border);
+}
+
+.btn-main:active {
+    background: var(--color-main-active);
+}
+
+.btn-confirm {
+    background: var(--color-confirm);
+    background: linear-gradient(0deg, var(--color-confirm) 0%, var(--color-confirm-b) 100%);
+    border-bottom-color: var(--color-confirm-border);
+    -webkit-text-stroke: 1px var(--color-confirm-border);
+}
+
+.btn-confirm:active {
+    background: var(--color-confirm-active);
+}
+
+.btn-error {
+    background: var(--color-error);
+    background: linear-gradient(0deg, var(--color-error) 0%, var(--color-error-b) 100%);
+    border-bottom-color: var(--color-error-border);
+    -webkit-text-stroke: 1px var(--color-error-border);
+}
+
+.btn-error:active {
+    background: var(--color-error-active);
+}
+
+.btn-female {
+    background: var(--color-female);
+    background: linear-gradient(0deg, var(--color-female) 0%, var(--color-female-b) 100%);
+    border-bottom-color: var(--color-female-border);
+    -webkit-text-stroke: 1px var(--color-female-border);
+}
+
+.btn-female:active {
+    background: var(--color-female-active);
+}
+
+.btn-male {
+    background: var(--color-male);
+    background: linear-gradient(0deg, var(--color-male) 0%, var(--color-male-b) 100%);
+    border-bottom-color: var(--color-male-border);
+    -webkit-text-stroke: 1px var(--color-male-border);
+}
+
+.btn-male:active {
+    background: var(--color-male-active);
+}
+
+.btn-gay {
+    background: var(--color-main);
+    background: linear-gradient(60deg, red, yellow, green, cyan, blue, violet);
+    border-bottom-color: var(--color-main-border);
+    -webkit-text-stroke: 1px var(--color-main-border);
+}
+
+.btn-gay:active {
+    background: var(--color-main-active);
+}
+
+.btn-inactive {
+    background: var(--color-disable);
+    background: linear-gradient(0deg, var(--color-disable) 0%, var(--color-disable-b) 100%);
+    border-bottom-color: var(--color-disable-border);
+    -webkit-text-stroke: 1px var(--color-disable-border);
+}
+
+.btn-inactive:active {
+    background: var(--color-disable-active);
+}
+
+.btn-disable {
+    background: var(--color-disable);
+    background: linear-gradient(0deg, var(--color-disable) 0%, var(--color-disable-b) 100%);
+    border-bottom-color: var(--color-disable-border);
+    -webkit-text-stroke: 1px var(--color-disable-border);
+    cursor: no-drop;
+    opacity: 0.7;
+}
+
+.btn-disable:active {
+    background: var(--color-disable-active);
+    background: linear-gradient(0deg, var(--color-disable) 0%, var(--color-disable-b) 100%);
+    border-bottom-color: var(--color-disable-border);
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    transform: none;
+}
+
+/* Animation */
+.question h1 {
+    margin: 0.1em 0;
+}
+
+.question h1, h3 {
+    animation-name: appears;
+    animation-duration: 1s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 1;
+}
+
+.question h3 {
+    text-align: center;
+    margin: 0.6em 0;
+    font-style: italic;
+    -webkit-text-stroke: 0.6px #000;
+}
+
+.question h3.main {
+    color: var(--color-main);
+}
+
+.question h3.male {
+    color: var(--color-male);
+}
+
+.question h3.female {
+    color: var(--color-female);
+}
+
+.question h3.hot {
+    color: var(--color-error);
+}
+
+@keyframes appears {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
