@@ -15,15 +15,15 @@ async function main() {
 	})
 
 	datasets[1].forEach(question => {
-		if (!noSex.has(question.kind))
-			noSex.set(question.kind, [])
+		if (!noSex.has(question.rate))
+			noSex.set(question.rate, [])
 
-		noSex.get(question.kind).push(question.question)
+		noSex.get(question.rate).push(question.question)
 	})
 
-	$('#ns-1').click(() => next(1, 0))
-	$('#ns-2').click(() => next(1, 1))
-	$('#ns-3').click(() => next(1, 2))
+	$('#no-1').click(() => next(1, 0))
+	$('#no-2').click(() => next(1, 1))
+	$('#no-3').click(() => next(1, 2))
 
 	$('#sex').click(() => next(0, 'T'))
 	$('#male').click(() => next(0, 'H'))
@@ -91,6 +91,7 @@ function next(sex, kind) {
 
 	speechSynthesis.speak(msg)
 
+	// HTML
 	$('.question h1,h3').remove()
 	$('.question').append(`<h3 class="${mSexH3Class[kind]}">${sex == 0 ? mSexH3[kind] : ''}</h3>`)
 	$('.question').append(`<h1>${question}</h1>`)

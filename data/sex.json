@@ -356,10 +356,6 @@
 		"kind": "P"
 	},
 	{
-		"question": "¿Quién crees que besa mejor?",
-		"kind": "P"
-	},
-	{
 		"question": "¿Con quién te gustaría emborracharte?",
 		"kind": "P"
 	},
@@ -825,10 +821,6 @@
 	},
 	{
 		"question": "¿Quién tiene las relaciones más largas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién perdonaría una infidelidad?",
 		"kind": "T"
 	},
 	{

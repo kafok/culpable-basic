@@ -1,1358 +1,1358 @@
 [
-	{
-		"question": "¿Quién quiere más a su mascota?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién es el puto amo?",
-		"kind": "N"
-	},
-	{
-		"question": "¿A quién aprecias más?",
-		"kind": "N"
-	},
-	{
-		"question": "¿A quién aprecias menos?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién les caería mejor a sus suegros?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién le caería peor a sus suegros?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién crees que tiene más éxito en la vida?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién crees que te defendería incluso si tiene que meterse en una pelea física?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién se ha elegido el mejor avatar en este juego?",
-		"kind": "N"
-	},
-	{
-		"question": "¿Quién es el peor estudiante?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se saltaba las clases?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién moriría primero en un ataque de zombis?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién cuenta mejores chistes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién cuenta peores chistes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más gracioso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos gracioso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que más pesa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que menos pesa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería mejor actor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería peor actor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más llorón?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se ahogaría en una piscina para niños?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién te comerías si tu vida dependiese de ello?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién te cae mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién te cae peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién matarías?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene el mejor pelazo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene el mejor peinado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene el peor peinado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién da los mejores masajes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién da los peores masajes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién huele mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién huele peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién parece más joven?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién parece más viejo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que baila mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que baila peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que viste mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que viste peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que se droga más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que nunca se drogaría?",
-		"kind": "T"
-	},
-	{
-		"question": "Si te llamasen porque han ingresado a alguien por una sobredosis, ¿Quién sería?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién fuma más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién bebe más alcohol?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se emborracha antes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién emborracharías?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién haría más flexiones?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién haría menos flexiones?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién corre más lento?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién corre más rápido?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién hace menos deporte?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién hace más deporte?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién va a casarse antes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién va a casarse el ultimo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién nunca se casaría?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién morirá soltero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene los mejores abdominales?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene más barriga?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién caga más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién caga menos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién mea más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién mea menos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién come más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién come menos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le tocaría la lotería?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más pobre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más rico?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién morirá pobre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene mejor suerte?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene peor suerte?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién conduce mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién conduce peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más blanco de piel?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más moreno de piel?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más impaciente?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más cariñoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más romántico?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos cariñoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos romántico?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más torpe?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más sensible?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más irritable?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más tímido?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más abierto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más enérgico?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más optimista?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más pesimista?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más organizado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos organizado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más alegre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más fiel como amigo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más fiel como pareja?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos fiel como amigo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más infiel como pareja?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más formal?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos formal?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más generoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos generoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más atento?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos atento?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más confiable?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos confiable?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más listo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos listo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más espabilado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos espabilado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más simpático?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos simpático?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más sincero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos sincero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más creativo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos creativo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más trabajador?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos trabajador?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más valiente?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más cobarde?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más detallista?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el menos detallista?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más aburrido?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más pesado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más chiflado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más raro?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más ingenuo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más creído?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más tacaño?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más coqueta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más terco?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más descuidado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más perezoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más egoísta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se haría una operación estética?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién ha hecho la peor locura por un chico o una chica?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién ha hecho la cosa más estúpida?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más infantil?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién dejaría a su pareja por 1 millón de euros?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién ha sido rechazado más veces?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién te llevarías a una isla desierta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le gusta menos su trabajo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién ha tenido la peor cita?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que ha hecho la cosa más loca?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién no acabaría una película de terror?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién se lo llevaría preso la policía?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién hace bromas más desagradables?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién usaría peor el poder de la invisibilidad?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más cotilla?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién canta mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién canta peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería un villano?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién aguantaría menos sin móvil?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién aguantaría menos sin internet?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tendrá más hijos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién cagaría en una piscina?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién vestiría con ropa del sexo opuesto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se tira más pedos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién olería su ropa interior para saber si está limpia?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién podría decir el peor insulto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tendría un amor platónico de por vida?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más celoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién aguantaría más rondas a chupitos seguidas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se ducha menos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién aguantaría menos rondas a chupitos seguidas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se ducha más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería mantenido por su pareja?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que mejor te cae?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que peor te cae?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería peor tener como jefe?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería mejor tener como jefe?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién debería hacer dieta?",
-		"kind": "T"
-	},
-	{
-		"question": "Si te tirases un pedo, ¿A quién le echarías la culpa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién culparías de un crimen para salvarte a ti?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién gana más dinero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién gana menos dinero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene más dinero ahora mismo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene menos dinero ahora mismo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién le caería peor a sus suegros?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se tiraría en paracaídas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién no se tiraría en paracaídas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién está más loco?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene un secreto inconfesable?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién come cosas más raras?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más exquisito para comer?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es adoptado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién lloraría por amor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más moroso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién cambiaria a su hermano por dinero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es peor hablado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Contra quién no harías ninguna apuesta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más tramposo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién escucha peor música?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién se le daba mejor fingir que estaba enfermo para no ir a la escuela?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que finge que está enfermo para no ir al trabajo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se ha comido toda la comida de su mascota de una vez?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que habla mal de alguien de este grupo a sus espaldas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se tropieza más por mirar el móvil?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que llora más al ver películas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le gustan las peores pelis?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le gustan las mejores pelis?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que ha tenido que huir de la policía?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que sería incapaz de montarse en una montaña rusa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que ha pasado una noche en el cuartelillo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que conduciría borracho?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que cocina mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que cocina peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que viaja más?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que viaja menos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién saltaría la comba con un dedo metido en la oreja?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más atractivo para los mosquitos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién no sería capaz de sobrevivir en la naturaleza?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería comido por sus mascotas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién tendrías de mascota?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería el último en hacer vegano?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Por quién tienen que darle al resto una paga el estado?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tiene que teñirse el pelo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tiene el pelo teñido?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién debería ir a un psiquiatra?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se perdería en un bosque dando saltos tras un conejo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se sigue meando en la cama?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se perdería una fiesta por quedarse jugando a videojuegos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se tiraría a una piscina vacía sin darse cuenta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién te metería un bocado por acercarte a su comida?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién aprovecharía hacer de comer al resto para envenaros a todos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién dibuja mejor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién dibuja peor?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién votaría por un a un campamento nudista?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se qudaría en la naturaleza para siempre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se comería el pegamento de una clase de manualidades?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién era el más malo en clase?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le robaban siempre el bocadillo en el recreo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién era el que robaba bocadillos en el recreo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el que comía tierra de pequeño?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién después de arrasarse el ojete se olería el dedo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se come aun sus mocos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién paga más pronto sus deudas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tendría más probabilidades de ir a la cárcel en el extranjero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tendría la idea de planear un atraco a un banco?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tiene una habilidad natural para meterse en líos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién vivirá con sus padres hasta que se muera?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería un político corrupto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién sería el profesor que intentaría hacerle la vida imposible a sus alumnos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién fingiría estar poseído para insultar a todo el mundo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién sería más fácil estafarle dinero?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que sería presa de una secta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se dedicaría a la mafia?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién hace menos la cama?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tiene unos prismáticos para espiar a sus vecinos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es peor vecino?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que te denunciaría por ofenderle?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tiene una plantación de drogas clandestina?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se arruinaría jugando en un casino?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se haría rico jugando en un casino?",
-		"kind": "T"
-	},
-	{
-		"question": "¿De quién no te dejarías donar un órgano?",
-		"kind": "T"
-	},
-	{
-		"question": "Si fueses un vampiro, ¿De quién te beberías su sangre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién te gustaría ser por un día?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le daría miedo montarse en los ponys de una feria?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién habría llevado el peor peinado de todo el colegio?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién era más feo de bebe?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién era más guapo de bebe?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién era el más popular en el instituto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién le recordaría al profe que tenía que corregir deberes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se tropezaría en su boda delante de todo el mundo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién intentaría coger el ramo en una boda como loco?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién no se casaría por la iglesia?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién montaría una tienda de campaña que saldría volando a los 2 minutos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién llega siempre tarde?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tendrá la boda más desastrosa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se olvidaría de su cumpleaños?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se iría a vivir a una casa solo en mitad del campo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién pondría las peores canciones en una fiesta?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que duerme desnudo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién viviría solo en una casa para siempre?",
-		"kind": "T"
-	},
-	{
-		"question": "Si te dieran un coche por pegarle un tortazo a alguien, ¿A quién sería?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que ha leído más libros?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le traían menos regalos por navidad?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que sabría hacerte el mejor regalo?",
-		"kind": "T"
-	},
-	{
-		"question": "Si alguno fuera presidente de tu país, ¿Quién crees que lo llevaría a la ruina?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a sus padres?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que si tuvieras un accidente lo primero que te haría es una foto para subirla a las redes sociales?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tendría la caída más graciosa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que juega más a videojuegos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más malo jugando a videojuegos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que si tuviese una foto tuya vergonzosa la difundiría sin pensarlo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene la peor foto principal?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién bebe más cerveza?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le gusta menos la cerveza?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién hace un drama de todo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es el más quejoso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién no se callaría ni debajo del agua?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es la persona más clásica?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es la persona más moderna en general?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Sobre quién extenderías un rumor falso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A la casa de quién le tirarías huevos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién es más siniestro?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que será el primero en tener dentadura postiza?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que si saliese en la tele haría el ridículo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que podría triunfar en YouTube?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién gasta más dinero inútilmente?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tiene un pasado oscuro?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que no sabe cuidar a sus mascotas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién cree que sería mejor padre/madre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién cree que sería peor padre/madre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que es más aficionado a ver deporte?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un oso?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a una jirafa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un león?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a una tortuga?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un murciélago?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un elefante?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a una cabra?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un mono?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un pato?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a una mosca?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un búho?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a una rana?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un canguro?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un caballo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un escarabajo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un mapache?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un tigre?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un pollo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que se parece más a un lagarto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que planificaría las peores vacaciones?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que planificaría las mejores vacaciones?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le pedirías ayuda si se te rompe el ordenador?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A quién le pedirías ayuda si se te rompe el coche?",
-		"kind": "T"
-	},
-	{
-		"question": "Si nos invadiesen unos alienígenas, ¿A quién crees que confundirían con uno de los suyos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién se lleva peor con los animales?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene los mejores ojos?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién te daría miedo cruzártelo en un callejón oscuro sin reconocerlo a la primera?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene más miedo a que se le caiga el pelo?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que quemaría su casa cocinando en un descuido?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que querría más a su mascota que a su pareja?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que vive en el barrio más seguro?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene la mejor casa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién tiene la peor casa?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que tendría la afición más rara?",
-		"kind": "T"
-	},
-	{
-		"question": "¿A los hijos de quién cuidarías si esta persona le surge un imprevisto?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que conoce los mejores restaurantes?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién soporta peor las cosquillas?",
-		"kind": "T"
-	},
-	{
-		"question": "¿Quién crees que es más bipolar?",
-		"kind": "T"
-	}
+    {
+        "question": "¿Quién come más?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién come menos?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién crees que viaja más?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién crees que viaja menos?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién es más blanco de piel?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién es más moreno de piel?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién haría más flexiones?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién haría menos flexiones?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién quiere más a su mascota?",
+        "rate": 0
+    },
+    {
+        "question": "¿Quién se ha elegido el mejor avatar en este juego?",
+        "rate": 0
+    },
+    {
+        "question": "¿A quién le pedirías ayuda si se te rompe el coche?",
+        "rate": 1
+    },
+    {
+        "question": "¿A quién le pedirías ayuda si se te rompe el ordenador?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién aguantaría menos sin internet?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién aguantaría menos sin móvil?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién bebe más alcohol?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién caga más?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién caga menos?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién canta mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién canta peor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién come cosas más raras?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién conduce mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién conduce peor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién corre más lento?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién corre más rápido?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que cocina mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que conoce los mejores restaurantes?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que es más aficionado a ver deporte?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que juega más a videojuegos?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que podría triunfar en YouTube?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que se parece más a sus padres?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que será el primero en tener dentadura postiza?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que sería incapaz de montarse en una montaña rusa?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que te denunciaría por ofenderle?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que tiene el pelo teñido?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién crees que tiene una habilidad natural para meterse en líos?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién cuenta mejores chistes?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién cuenta peores chistes?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién da los mejores masajes?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién da los peores masajes?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién dibuja mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién dibuja peor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el más formal?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el más gracioso?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el más impaciente?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el más llorón?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el más quejoso?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el menos formal?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el menos gracioso?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el peor estudiante?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el que baila mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el que baila peor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el que más pesa?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el que menos pesa?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el que viste mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es el que viste peor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es la persona más clásica?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es la persona más moderna en general?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es más exquisito para comer?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es más pobre?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es más rico?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es más siniestro?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es peor hablado?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién es peor vecino?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién está más loco?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién fuma más?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién gana más dinero?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién gana menos dinero?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién hace más deporte?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién hace menos deporte?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién hace menos la cama?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién hace un drama de todo?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién huele mejor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién huele peor?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién llega siempre tarde?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién mea más?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién mea menos?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién no se callaría ni debajo del agua?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién no se casaría por la iglesia?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién no se tiraría en paracaídas?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién parece más joven?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién parece más viejo?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién se iría a vivir a una casa solo en mitad del campo?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién se olvidaría de su cumpleaños?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién se saltaba las clases?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién se tiraría en paracaídas?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién sería un villano?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién tiene los mejores abdominales?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién tiene más dinero ahora mismo?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién tiene mejor suerte?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién tiene menos dinero ahora mismo?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién tiene peor suerte?",
+        "rate": 1
+    },
+    {
+        "question": "¿Quién viviría solo en una casa para siempre?",
+        "rate": 1
+    },
+    {
+        "question": "¿A la casa de quién le tirarías huevos?",
+        "rate": 2
+    },
+    {
+        "question": "¿A los hijos de quién cuidarías si esta persona le surge un imprevisto?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién aprecias más?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién aprecias menos?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién culparías de un crimen para salvarte a ti?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién emborracharías?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le daría miedo montarse en los ponys de una feria?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le gusta menos la cerveza?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le gusta menos su trabajo?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le gustan las mejores pelis?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le gustan las peores pelis?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le robaban siempre el bocadillo en el recreo?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le tocaría la lotería?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién le traían menos regalos por navidad?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién matarías?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién se le daba mejor fingir que estaba enfermo para no ir a la escuela?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién se lo llevaría preso la policía?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién sería más fácil estafarle dinero?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién te comerías si tu vida dependiese de ello?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién te llevarías a una isla desierta?",
+        "rate": 2
+    },
+    {
+        "question": "¿A quién tendrías de mascota?",
+        "rate": 2
+    },
+    {
+        "question": "¿Contra quién no harías ninguna apuesta?",
+        "rate": 2
+    },
+    {
+        "question": "¿De quién no te dejarías donar un órgano?",
+        "rate": 2
+    },
+    {
+        "question": "¿Por quién tienen que darle al resto una paga el estado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién aguantaría más rondas a chupitos seguidas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién aguantaría menos rondas a chupitos seguidas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién aprovecharía hacer de comer al resto para envenaros a todos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién bebe más cerveza?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién cagaría en una piscina?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién cambiaria a su hermano por dinero?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién cree que sería mejor padre/madre?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién cree que sería peor padre/madre?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que cocina peor?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que conduciría borracho?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que duerme desnudo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que es más bipolar?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que finge que está enfermo para no ir al trabajo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que ha leído más libros?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que ha pasado una noche en el cuartelillo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que ha tenido que huir de la policía?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que habla mal de alguien de este grupo a sus espaldas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que llora más al ver películas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que no sabe cuidar a sus mascotas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que planificaría las mejores vacaciones?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que planificaría las peores vacaciones?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que quemaría su casa cocinando en un descuido?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que querría más a su mascota que a su pareja?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que sabría hacerte el mejor regalo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se arruinaría jugando en un casino?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se dedicaría a la mafia?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se ha comido toda la comida de su mascota de una vez?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se haría rico jugando en un casino?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un búho?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un caballo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un canguro?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un elefante?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un escarabajo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un lagarto?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un león?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un mapache?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un mono?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un murciélago?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un oso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un pato?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un pollo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a un tigre?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a una cabra?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a una jirafa?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a una mosca?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a una rana?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se parece más a una tortuga?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se sigue meando en la cama?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que se tropieza más por mirar el móvil?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que sería presa de una secta?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que si saliese en la tele haría el ridículo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que si tuvieras un accidente lo primero que te haría es una foto para subirla a las redes sociales?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que si tuviese una foto tuya vergonzosa la difundiría sin pensarlo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que te defendería incluso si tiene que meterse en una pelea física?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que tendría la afición más rara?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que tiene más éxito en la vida?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que tiene que teñirse el pelo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que tiene un pasado oscuro?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que tiene una plantación de drogas clandestina?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que tiene unos prismáticos para espiar a sus vecinos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién crees que vive en el barrio más seguro?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién debería hacer dieta?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién debería ir a un psiquiatra?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién dejaría a su pareja por 1 millón de euros?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién después de arrascarse el ojete se olería el dedo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién era el más malo en clase?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién era el más popular en el instituto?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién era el que robaba bocadillos en el recreo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién era más feo de bebe?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién era más guapo de bebe?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es adoptado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más abierto?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más aburrido?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más alegre?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más atento?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más cariñoso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más celoso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más chiflado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más cobarde?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más confiable?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más coqueta?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más cotilla?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más creativo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más creído?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más descuidado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más detallista?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más egoísta?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más enérgico?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más espabilado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más fiel como amigo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más fiel como pareja?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más generoso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más infantil?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más infiel como pareja?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más ingenuo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más irritable?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más listo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más optimista?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más organizado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más perezoso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más pesado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más pesimista?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más raro?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más romántico?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más sensible?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más simpático?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más sincero?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más tacaño?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más terco?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más tímido?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más torpe?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más trabajador?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más tramposo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el más valiente?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos atento?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos cariñoso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos confiable?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos creativo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos detallista?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos espabilado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos fiel como amigo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos generoso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos listo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos organizado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos romántico?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos simpático?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos sincero?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el menos trabajador?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el puto amo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el que comía tierra de pequeño?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el que ha hecho la cosa más loca?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el que mejor te cae?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el que nunca se drogaría?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el que peor te cae?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es el que se droga más?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es más atractivo para los mosquitos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es más malo jugando a videojuegos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién es más moroso?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién escucha peor música?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién fingiría estar poseído para insultar a todo el mundo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién gasta más dinero inútilmente?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién ha hecho la cosa más estúpida?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién ha hecho la peor locura por un chico o una chica?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién ha sido rechazado más veces?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién ha tenido la peor cita?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién habría llevado el peor peinado de todo el colegio?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién hace bromas más desagradables?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién intentaría coger el ramo en una boda como loco?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién le caería peor a sus suegros?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién le caería peor a sus suegros?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién le recordaría al profe que tenía que corregir deberes?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién les caería mejor a sus suegros?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién lloraría por amor?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién montaría una tienda de campaña que saldría volando a los 2 minutos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién morirá pobre?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién morirá soltero?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién moriría primero en un ataque de zombis?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién no acabaría una película de terror?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién no sería capaz de sobrevivir en la naturaleza?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién nunca se casaría?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién olería su ropa interior para saber si está limpia?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién paga más pronto sus deudas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién podría decir el peor insulto?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién pondría las peores canciones en una fiesta?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién saltaría la comba con un dedo metido en la oreja?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se ahogaría en una piscina para niños?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se come aun sus mocos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se comería el pegamento de una clase de manualidades?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se ducha más?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se ducha menos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se emborracha antes?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se haría una operación estética?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se lleva peor con los animales?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se perdería en un bosque dando saltos tras un conejo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se perdería una fiesta por quedarse jugando a videojuegos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se qudaría en la naturaleza para siempre?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se tira más pedos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se tiraría a una piscina vacía sin darse cuenta?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién se tropezaría en su boda delante de todo el mundo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería comido por sus mascotas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería el profesor que intentaría hacerle la vida imposible a sus alumnos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería el último en hacer vegano?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería mantenido por su pareja?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería mejor actor?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería mejor tener como jefe?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería peor actor?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería peor tener como jefe?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién sería un político corrupto?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién soporta peor las cosquillas?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién te cae mejor?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién te cae peor?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién te daría miedo cruzártelo en un callejón oscuro sin reconocerlo a la primera?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién te gustaría ser por un día?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién te metería un bocado por acercarte a su comida?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tendrá la boda más desastrosa?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tendrá más hijos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tendría la caída más graciosa?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tendría la idea de planear un atraco a un banco?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tendría más probabilidades de ir a la cárcel en el extranjero?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tendría un amor platónico de por vida?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene el mejor peinado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene el mejor pelazo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene el peor peinado?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene la mejor casa?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene la peor casa?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene la peor foto principal?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene los mejores ojos?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene más barriga?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene más miedo a que se le caiga el pelo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién tiene un secreto inconfesable?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién usaría peor el poder de la invisibilidad?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién va a casarse antes?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién va a casarse el ultimo?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién vestiría con ropa del sexo opuesto?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién vivirá con sus padres hasta que se muera?",
+        "rate": 2
+    },
+    {
+        "question": "¿Quién votaría por un a un campamento nudista?",
+        "rate": 2
+    },
+    {
+        "question": "¿Sobre quién extenderías un rumor falso?",
+        "rate": 2
+    },
+    {
+        "question": "Si alguno fuera presidente de tu país, ¿Quién crees que lo llevaría a la ruina?",
+        "rate": 2
+    },
+    {
+        "question": "Si fueses un vampiro, ¿De quién te beberías su sangre?",
+        "rate": 2
+    },
+    {
+        "question": "Si nos invadiesen unos alienígenas, ¿A quién crees que confundirían con uno de los suyos?",
+        "rate": 2
+    },
+    {
+        "question": "Si te dieran un coche por pegarle un tortazo a alguien, ¿A quién sería?",
+        "rate": 2
+    },
+    {
+        "question": "Si te llamasen porque han ingresado a alguien por una sobredosis, ¿Quién sería?",
+        "rate": 2
+    },
+    {
+        "question": "Si te tirases un pedo, ¿A quién le echarías la culpa?",
+        "rate": 2
+    }
 ]
